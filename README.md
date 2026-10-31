@@ -8,3 +8,8 @@ Pattern : geometric sequence (ratio 2)
 Rule    : a(n) = 2*a(n-1)
 Next    : 16
 Trust   : medium (2 extra terms verified)
+
+
+
+Just run as an exe, also on itch.io
+https://pungent-muskrat.itch.io/math-guesser
